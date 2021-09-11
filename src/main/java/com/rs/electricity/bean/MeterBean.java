@@ -5,11 +5,7 @@ import lombok.ToString;
 
 @Data
 @ToString
-public class
-
-
-
-MeterBean {
+public class MeterBean {
 
     private String deviceId;
 
